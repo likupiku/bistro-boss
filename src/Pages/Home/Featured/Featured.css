@@ -1,0 +1,8 @@
+.back {
+    background-image: url('../../../assets/assets/home/featured.jpg');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    opacity: .8;
+
+}
